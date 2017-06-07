@@ -1,0 +1,21 @@
+
+
+Compiler and Interpreter both carry out the same purpose – convert a high level language (like C, Java) 
+instructions into the binary form which is understandable by computer hardware. 
+They are the software used to execute the high level programs and codes to perform various tasks. 
+However both compiler and interpreter have the same objective but they differ in the way they accomplish their 
+task.
+
+Difference between compiler and interpreter.
+
+1. A complier converts the high level instruction into machine language while an interpreter converts 
+   the high level instruction into an intermediate form.
+
+2. Before execution, entire program is executed by the compiler whereas after translating the 
+   first line, an interpreter then executes it and so on.
+
+3. List of errors is created by the compiler after the compilation process while an interpreter 
+   stops translating after the first error.
+
+4. An independent executable file is created by the compiler whereas interpreter is required by an 
+   interpreted program each time.
